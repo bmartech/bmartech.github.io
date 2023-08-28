@@ -2,8 +2,8 @@
 layout: default
 ---
 
+## Curriculum vitae
 Click [Download](martinscv.pdf) to view the CV.
-
 
 ## Contact me
 - **Phone:** +2348136227442
