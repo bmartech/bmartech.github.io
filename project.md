@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Projects"
+permalink: "/project/"
 ---
 
 {% if site.show_excerpts %}
