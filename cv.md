@@ -6,6 +6,6 @@ Click [Download](martinscv.pdf) to view the CV.
 
 
 # Contact me
-- {title: "Phone:"} +2348136227442
-- {title: " ", icon: "whatsapp"} +2348136227442
-- {title: " ", icon: "mail"} martinsfriday.mf@gmail.com
+- **Phone:** +2348136227442
+- **whatsapp:** +2348136227442
+- **mail:** martinsfriday.mf@gmail.com
