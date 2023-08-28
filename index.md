@@ -3,9 +3,9 @@ layout: page
 title: "About"
 ---
 
-I am a well-experienced Data Scientist, a goal orientedindividual with a keen interest in environmental sustainability. Ihave excellent communication skills as well as strong workethics that allows me achieve set goals efficiently. My corecompetencies include; Python programming, Machine Learning,Data collection and analysis, Writing reports and presentations,Client Relationship Management (CRM), Microsoft Excel, PowerBI, Good command on Microsoft Word suite.
-I offer my professional services in the domain of Analysis and Predictions.
-I implement the following:
+I am a well-experienced Data Scientist, a goal orientedindividual with a keen interest in environmental sustainability. Ihave excellent communication skills as well as strong workethics that allows me achieve set goals efficiently. My corecompetencies include; Python programming, Machine Learning,Data collection and analysis, Writing reports and presentations,Client Relationship Management (CRM), Microsoft Excel, PowerBI, Good command on Microsoft Word suite. \
+I offer my professional services in the domain of Analysis and Predictions. \
+I implement the following: \
   - Logical research Assumptions/Questions
   - Data Wrangling
   - Exploratory Data Analysis
@@ -15,7 +15,7 @@ I implement the following:
   - Machine Learning Model Implementation
   - Conclusion/Report
 
-My services include:
+My services include: \
   - Professional Market Projects
   - Market Research
   - Country Data Analysis
@@ -24,13 +24,13 @@ My services include:
   - Business Analysis
   - Business Research
 
-IDE's that I use:
+IDE's that I use: \
   - Anaconda
   - Jupyter Notebook
   - visual studio
   all in python
 
-Python libraries I use:
+Python libraries I use: \
   - Pandas
   - Numpy
   - Matplotlib
@@ -39,18 +39,18 @@ Python libraries I use:
   - Statsmodels
   - Sciket-Learn
 
-Machine Learning work:
+Machine Learning work: \
   - Classification
   - Regression
 
-Machine Learning Models:
+Machine Learning Models: \
   - Linear Regression.
   - Logistic Regression.
   - Decision Tree.
   - K-Means.
   and many more.
 
-Reasons to hire data_analytics:
+Reasons to hire data_analytics: \
   - Best Solution
   - On-time Delivery
 
