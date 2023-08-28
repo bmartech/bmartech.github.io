@@ -8,9 +8,10 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
+show_social: true          # show site description and social links in the footer
 minimal: false             # use a dark header
 
 # Menu
@@ -18,8 +19,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "About me"}
-  - {file: "martinscv.pdf", title: "CV"}
-  - {file: "project.md", title: "Projects"}
+  - {file: "/martinscv.pdf", title: "CV"}
+  - {file: "/blog.md", title: "Project"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:martinsfriday.mf@gmail.com"}
