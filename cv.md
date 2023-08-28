@@ -1,4 +1,5 @@
 ---
+title: "Curriculum Vitae"
 layout: page
 ---
 
