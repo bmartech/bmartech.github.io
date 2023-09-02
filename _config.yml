@@ -1,7 +1,6 @@
 title: "Martosoft Consultancy"
 author: "Martins F. Balogun"
 description: "University of Benin"
-permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
