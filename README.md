@@ -18,7 +18,7 @@ In an era defined by the digital revolution, data science is at the forefront of
 
 **What We Offer:**
 
--**Analysis:** We do data collection, data entry, data cleaning, web scrapping, all kinds of statistical data analysis, exploratory data analysis, financial analysis, business analysis, A/B testing, model building, and machine learning.
+- **Analysis:** We do data collection, data entry, data cleaning, web scrapping, all kinds of statistical data analysis, exploratory data analysis, financial analysis, business analysis, A/B testing, model building, and machine learning.
 
 - **Educational Resources:** Explore our rich collection of tutorials, articles, and guides that cover a wide range of data science topics. Whether you're a beginner or an expert, we have something to offer you.
 
