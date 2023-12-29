@@ -26,7 +26,7 @@ In an era defined by the digital revolution, data science is at the forefront of
 
 - **Interactive Community:** Join a vibrant community of data enthusiasts and professionals who share their knowledge, experience, and passion for data science.
 
-- **Consulting Services (if applicable):** [Optional: If you offer consulting services, mention them here.]
+- **Consulting Services:** Our services is based on IT, Finance, Operation, and Risk management consulting.
 
 **Our Commitment:**
 
